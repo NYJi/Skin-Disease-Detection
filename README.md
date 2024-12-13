@@ -9,9 +9,9 @@ The external changed circumstance makes their skin sensitivity. In additional, S
 <br/>
 
 ## 📌 Purpose
-    #### ✔️ Improving a detection model Accuracy for skin disease data based on "Dermnet"
-    ######### - The model can detect the skin condition if it has similar of skin data
-    #### ✔️ Distributing an Apps of checking their skin condition
+    ✔️ Improving a detection model Accuracy for skin disease data based on "Dermnet"
+        - The model can detect the skin condition if it has similar of skin data
+    ✔️ Distributing an Apps of checking their skin condition
 
 <br/>
 
