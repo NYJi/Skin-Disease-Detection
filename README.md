@@ -13,6 +13,7 @@ The external changed circumstance makes their skin sensitivity. In additional, S
 - The model can detect the skin conditions if it has similar of skin data
 - Compare models that are based Deep Learning and Determine the best model what is fitted our project
 <br/>
+
 ### ✔️ Distributing an Apps of checking their skin condition
 
 <br/>
